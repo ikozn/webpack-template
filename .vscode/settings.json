@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "commitlint"
+    ],
+    "htmlhint.options": {
+        "spec-char-escape": false
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "allowSyntheticDefaultImports": true,
+    "compilerOptions": {
+        "jsx": "react",
+        "noEmit": true,
+        "esModuleInterop": true,
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "src/**/*",
+        "images.d.ts"
+    ]
+}
